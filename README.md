@@ -1,0 +1,3 @@
+Este es un repositorio que contiene el material referente al laboratorio numero 4 de la materia Introduccion a la ciencia de datos a cargo de Wilmer Gonzalez.
+El archivo .R contiene el codigo usado para trabajar con modelos usando la funcion glm().
+Se uso la libreria ISLR para cargar el conjunto de datos Smarket, el diccionario correpondiente con la descripcion del dataset se encuentra en el archivo diccionario.txt 
